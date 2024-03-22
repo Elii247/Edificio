@@ -63,6 +63,7 @@ public class Main {
         System.out.println("\nAltura del visitante: " + altura);
         System.out.println("\nNumero de telefono: " + telefono);
         System.out.println("\nNumero de apartamento: " + apartamento);
+        System.out.println("\nCantidad de visitante: " + cantidad);
 
     }
 }
